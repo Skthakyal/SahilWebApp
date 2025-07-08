@@ -1,0 +1,7 @@
+C:\Users\sktha\Desktop\WebApp_Deploy\SahilApp\bin\Release\net8.0\publish\SahilApp.exe
+C:\Users\sktha\Desktop\WebApp_Deploy\SahilApp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\sktha\Desktop\WebApp_Deploy\SahilApp\bin\Release\net8.0\publish\appsettings.json
+C:\Users\sktha\Desktop\WebApp_Deploy\SahilApp\bin\Release\net8.0\publish\SahilApp.dll
+C:\Users\sktha\Desktop\WebApp_Deploy\SahilApp\bin\Release\net8.0\publish\SahilApp.deps.json
+C:\Users\sktha\Desktop\WebApp_Deploy\SahilApp\bin\Release\net8.0\publish\SahilApp.runtimeconfig.json
+C:\Users\sktha\Desktop\WebApp_Deploy\SahilApp\bin\Release\net8.0\publish\SahilApp.pdb
